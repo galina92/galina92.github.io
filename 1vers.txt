@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<title>РљРѕС€РµР»СЊРєРё СЂСѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹</title>
+	<title>Кошельки ручной работы</title>
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -19,7 +19,7 @@
         Author URL: https://bootstrapmade.com
     ======================================================= -->
 </head>
-<body id="top" data-spy="scroll" style="background-color:#f2ceaa;">
+<body id="top" data-spy="scroll" style="background-color:#fff5d7;">
 	<!--top header-->
 
 	<header id="home">
@@ -41,7 +41,7 @@
 
 					<div class="col-md-6">
 						<div class="top-right">
-							<p><span>+79163937963, Рі. РњРѕСЃРєРІР°</span></p>
+							<p><span>+79163937963, г. Москва</span></p>
 						</div>
 					</div>
 
@@ -57,7 +57,7 @@
 				<div class="container">
 
 					<div class="navbar-header">
-						<a href="index.html" class="navbar-brand">РљРѕС€РµР»СЊРєРё СЂСѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹</a>
+						<a href="index.html" class="navbar-brand">Кошельки ручной работы</a>
 						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#ftheme">
 							<span class="sr-only">Toggle</span>
 							<span class="icon-bar"></span>
@@ -69,11 +69,11 @@
 					<div class="navbar-collapse collapse" id="ftheme">
 
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#home">Р“Р»Р°РІРЅР°СЏ</a></li>
-							<li><a href="#about">РџСЂРѕРґСѓРєС†РёСЏ</a></li>
-							<li><a href="#service">РљР°Рє Р·Р°РєР°Р·Р°С‚СЊ</a></li>
-							<li><a href="#portfolio">РќР°С€Рё СЂР°Р±РѕС‚С‹</a></li>
-							<li><a href="#contact">РљРѕРЅС‚Р°РєС‚С‹</a></li>
+							<li><a href="#home">Главная</a></li>
+							<li><a href="#about">Продукция</a></li>
+							<li><a href="#service">Как заказать</a></li>
+							<li><a href="#portfolio">Наши работы</a></li>
+							<li><a href="#contact">Контакты</a></li>
 							
 						</ul>
 
@@ -99,10 +99,10 @@
             	<img src="images/slider/slider1.jpg">
 
 				<div class="caption">
-					<h2><span  class="letter">РЈРЅРёРєР°Р»СЊРЅС‹Рµ РєРѕС€РµР»СЊРєРё</span></h2> 
-					<h2><span class="letter">СЂСѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹</span></h2>
-					<p><span class="letter">РРґРµР°Р»СЊРЅС‹Р№ Р°РєСЃСЃРµСЃСѓР°СЂ РёРјРµРЅРЅРѕ РґР»СЏ С‚РµР±СЏ - РєСЂР°СЃРёРІС‹Р№, РјРѕРґРЅС‹Р№ Рё СѓРґРѕР±РЅС‹Р№ Рё РІСЃРµРіРѕ Р·Р° 799СЂ!</span></p>
-					<button class="btn" href="#service">РџРѕРґСЂРѕР±РЅРµРµ</button> 
+					<h2><span  class="letter">Уникальные кошельки</span></h2> 
+					<h2><span class="letter">ручной работы</span></h2>
+					<p><span class="letter">Идеальный акссесуар именно для тебя - красивый, модный и удобный и всего за 799р!</span></p>
+					<button class="btn" href="#service">Подробнее</button> 
               
 	            </div>
 
@@ -111,10 +111,10 @@
             	<img src="images/slider/slider2.jpg">
 
 				<div class="caption">
-					<h2><span>РЈРЅРёРєР°Р»СЊРЅС‹Рµ РєРѕС€РµР»СЊРєРё</span></h2> 
-					<h2><span>СЂСѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹</span></h2>
-					<p>РћС‚ РЅРµР¶РЅРѕ-РїР°СЃС‚РµР»СЊРЅС‹С… РґРѕ СЃРјРµР»С‹С… Рё СЏСЂРєРёС… С†РІРµС‚РѕРІ - РІС‹Р±РµСЂРё СЃРІРѕР№ РёРґРµР°Р»СЊРЅС‹Р№ РєРѕС€РµР»РµРє!</p>
-				              
+					<h2><span>Уникальные кошельки</span></h2> 
+					<h2><span>ручной работы</span></h2>
+					<p>От нежно-пастельных до смелых и ярких цветов - выбери свой идеальный кошелек!</p>
+					<button class="btn">Подробнее</button>                 
 	            </div>
 
             </li>
@@ -122,10 +122,10 @@
             	<img src="images/slider/slider3.jpg">
 
 				<div class="caption">
-					<h2><span>РЈРЅРёРєР°Р»СЊРЅС‹Рµ РєРѕС€РµР»СЊРєРё</span></h2> 
-					<h2><span>СЂСѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹</span></h2>
-					<p>РљРѕС€РµР»РµРє РЅР° РІСЃРµ СЃР»СѓС‡Р°Рё Р¶РёР·РЅРё - РЅР° СЂР°Р±РѕС‚Сѓ, РЅР° РїСЂРѕРіСѓР»РєСѓ, РІ РїСѓС‚РµС€РµСЃС‚РІРёРµ!</p>
-					                
+					<h2><span>Уникальные кошельки</span></h2> 
+					<h2><span>ручной работы</span></h2>
+					<p>Кошелек на все случаи жизни - на работу, на прогулку, в путешествие!</p>
+					<button class="btn">Подробнее</button>                 
 	            </div>
 
             </li>
@@ -140,8 +140,8 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
 					<div class="about-heading">
-						<h2>РџСЂРѕРґСѓРєС†РёСЏ</h2> 
-						<p>"РЇ РЅР°С‡РёРЅР°СЋ СЃ РёРґРµРё, Рё Р·Р°С‚РµРј СЌС‚Рѕ СЃС‚Р°РЅРѕРІРёС‚СЃСЏ РєРѕРµ-С‡РµРј РµС‰Рµ" (Рџ. РџРёРєР°СЃСЃРѕ)</p>
+						<h2>Продукция</h2> 
+						<p>"Я начинаю с идеи, и затем это становится кое-чем еще" (П. Пикассо)</p>
 					</div>
 				</div>
 			</div>   	
@@ -163,27 +163,27 @@
     			<div class="col-xs-12 col-md-7">
     				<div class="about-right">
     					<div class="about-right-heading">
-    						<h1>Рћ РЅР°С€РёС… РєРѕС€РµР»СЊРєР°С…</h1>
+    						<h1>О наших кошельках</h1>
     					</div>
   
     					<div class="about-right-boot">
     						<div class="about-right-wrapper">
-	    						<a href="#"><h3>РџСЂР°РєС‚РёС‡РЅРѕСЃС‚СЊ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ</h3></a>
-	    						<p>Р‘Р»Р°РіРѕРґР°СЂСЏ СЃРІРѕРёРј РЅРµР±РѕР»СЊС€РёРј СЂР°Р·РјРµСЂР°Рј, РєРѕС€РµР»РµРє РЅРµ Р·Р°РЅРёРјР°РµС‚ РјРЅРѕРіРѕ РјРµСЃС‚Р°, С‚РµРј РЅРµ РјРµРЅРµРµ РІ РЅРµРіРѕ РІРѕР№РґСѓС‚ РІСЃРµ РЅРµРѕР±С…РѕРґРёРјС‹Рµ РєР°СЂС‚РѕС‡РєРё, РґРµРЅСЊРіРё Рё РґСЂСѓРіРёРµ РјРµР»РѕС‡Рё.</p>
+	    						<a href="#"><h3>Практичность использования</h3></a>
+	    						<p>Благодаря своим небольшим размерам, кошелек не занимает много места, тем не менее в него войдут все необходимые карточки, деньги и другие мелочи.</p>
     						</div>
     					</div>
 
     					<div class="about-right-best">
     						<div class="about-right-wrapper">
-	    						<a href="#"><h3>Р СѓС‡РЅР°СЏ СЂР°Р±РѕС‚Р°</h3></a>
-	    						<p>РљРѕС€РµР»СЊРєРё РёР·РіРѕС‚Р°РІР»РёРІР°СЋС‚СЃСЏ РІСЂСѓС‡РЅСѓСЋ РѕС‚ РЅР°С‡Р°Р»Р° Рё РґРѕ РєРѕРЅС†Р°. Р’ СЂР°Р±РѕС‚Рµ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РєР°С‡РµСЃС‚РІРµРЅРЅР°СЏ С…Р»РѕРїРєРѕРІР°СЏ РЅРёС‚СЊ . Р’СЃРµ РєРѕС€РµР»СЊРєРё РёРјРµСЋС‚ РїРѕРґРєР»Р°Рґ.</p>
+	    						<a href="#"><h3>Ручная работа</h3></a>
+	    						<p>Кошельки изготавливаются вручную от начала и до конца. В работе используется качественная хлопковая нить . Все кошельки имеют подклад.</p>
     						</div>
     					</div>
 
     					<div class="about-right-support">
     						<div class="about-right-wrapper">
-	    						<a href="#"><h3>РџРѕРґ Р»СЋР±РѕРµ РЅР°СЃС‚СЂРѕРµРЅРёРµ</h3></a>
-	    						<p>РР·РіРѕС‚РѕРІРёРј РєРѕС€РµР»РµРє РёРЅРґРёРІРёРґСѓР°Р»СЊРЅРѕ РґР»СЏ Р’Р°СЃ РІ Р»СЋР±РѕРј С†РІРµС‚Рµ РєР°С‡РµСЃС‚РІРµРЅРЅРѕ Рё Р±С‹СЃС‚СЂРѕ РІСЃРµРіРѕ Р·Р° 799СЂ! Р‘РµСЃРїР»Р°С‚РЅР°СЏ РґРѕСЃС‚Р°РІРєР° РїРѕ Р РѕСЃСЃРёРё</p>
+	    						<a href="#"><h3>Под любое настроение</h3></a>
+	    						<p>Изготовим кошелек индивидуально для Вас в любом цвете качественно и быстро всего за 799р! Бесплатная доставка по России</p>
     						</div>
     					</div>
 
@@ -205,33 +205,33 @@
 
 <section class="services-style-one">
  <div class="container-fluid">
-		  <h1 align="center">РљР°Рє Р·Р°РєР°Р·Р°С‚СЊ</h1>
-		  <p align="center">РЈСЃР»РѕРІРёСЏ СЂР°Р±РѕС‚С‹: СЃСЂРѕРєРё, РѕРїР»Р°С‚Р°, РґРѕСЃС‚Р°РІРєР°, РіР°СЂР°РЅС‚РёРё.</p>
+		  <h1 align="center">Как заказать</h1>
+		  <p align="center">Условия работы: сроки, оплата, доставка, гарантии.</p>
   <div class="row">
     <div class="col-sm-1">
     </div>
     <div class="col-sm-2">
     							<div class="icon-box" align="center"><i class="	fa fa-envelope-o" aria-hidden="true"></i></div>
-                                <h4 align="center">РљР°Рє СЃРґРµР»Р°С‚СЊ Р·Р°РєР°Р·</h4>
-                                <div class="text" align="center">Р§РµСЂРµР· С„РѕСЂРјСѓ РѕР±СЂР°С‚РЅРѕР№ СЃРІСЏР·Рё РЅР° СЃР°Р№С‚Рµ, РїРѕ С‚РµР»РµС„РѕРЅСѓ РІ Р·Р°РєР°Р·Рµ РЅРµРѕР±С…РѕРґРёРјРѕ СѓРєР°Р·Р°С‚СЊ Р¤РРћ, Р°РґСЂРµСЃ РѕС‚РїСЂР°РІРєРё, РїР°СЂР°РјРµС‚СЂС‹ РєРѕС€РµР»СЊРєР°.
+                                <h4 align="center">Как сделать заказ</h4>
+                                <div class="text" align="center">Через форму обратной связи на сайте, по телефону в заказе необходимо указать ФИО, адрес отправки, параметры кошелька.
                                 </div>
     </div>
     <div class="col-sm-2">
     	<div class="icon-box" align="center"><i class="	fa fa-calendar-check-o" aria-hidden="true"></i></div>
-                                <h4 align="center">РР·РіРѕС‚РѕРІР»РµРЅРёРµ</h4>
-                                <div class="text" align="center"> РЎСЂРѕРє РёР·РіРѕС‚РѕРІР»РµРЅРёСЏ РєРѕС€РµР»СЊРєР° - 2-3 РґРЅСЏ Р±РµР· СѓС‡РµС‚Р° РѕС‡РµСЂРµРґРё, Р»РёР±Рѕ РїСЂРёРѕР±СЂРµСЃС‚Рё РєРѕС€РµР»РµРє РёР· РЅР°Р»РёС‡РёСЏ.
+                                <h4 align="center">Изготовление</h4>
+                                <div class="text" align="center"> Срок изготовления кошелька - 2-3 дня без учета очереди, либо приобрести кошелек из наличия.
                                 </div>
                                 </div>
     <div class="col-sm-2">
     	<div class="icon-box" align="center"><i class="fa fa-credit-card" aria-hidden="true"></i></div>
-                                <h4 align="center">РћРїР»Р°С‚Р°</h4>
-                                <div class="text" align="center">РџРѕСЃР»Рµ С‚РѕРіРѕ, РєР°Рє РІР°С€ РєРѕС€РµР»РµРє РіРѕС‚РѕРІ, РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ РѕРїР»Р°С‚Р°. </div></div>
+                                <h4 align="center">Оплата</h4>
+                                <div class="text" align="center">После того, как ваш кошелек готов, осуществляется оплата. </div></div>
     <div class="col-sm-2"><div class="icon-box" align="center"><i class="fa fa-truck" aria-hidden="true"></i></div>
-                                <h4 align="center">Р”РѕСЃС‚Р°РІРєР°</h4>
-                                <div class="text" align="center">Р‘РµСЃРїР»Р°С‚РЅР°СЏ РґРѕСЃС‚Р°РІРєР° РїРѕ Р РѕСЃСЃРёРё РїРѕС‡С‚РѕР№ РЅР° СЃР»РµРґСѓСЋС‰РёР№ РґРµРЅСЊ РїРѕСЃР»Рµ РѕРїР»Р°С‚С‹. Р’РѕР·РјРѕР¶РЅС‹ РґСЂСѓРіРёРµ СЃРїРѕСЃРѕР±С‹ РґРѕСЃС‚Р°РІРєРё (РїР»Р°С‚РЅРѕ) </div></div>
+                                <h4 align="center">Доставка</h4>
+                                <div class="text" align="center">Бесплатная доставка по России почтой на следующий день после оплаты. Возможны другие способы доставки (платно) </div></div>
     <div class="col-sm-2"><div class="icon-box" align="center"><i class="fa fa-street-view" aria-hidden="true"></i></div>
-                                <h4 align="center">Р“Р°СЂР°РЅС‚РёРё</h4>
-                                <div class="text" align="center">Р•СЃР»Рё РІР°Рј РЅРµ РїРѕРґРѕС€Р»Рѕ РёР·РґРµР»РёРµ, РµСЃС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РІРѕР·РІСЂР°С‚Р° РІ С‚РµС‡РµРЅРёРµ 14 РґРЅРµР№ СЃРѕ РґРЅСЏ РїСЂРѕРґР°Р¶Рё Р·Р°РєР°Р·Р°, РµСЃР»Рё СЃРѕС…СЂР°РЅРµРЅ С‚РѕРІР°СЂРЅС‹Р№ РІРёРґ РёР·РґРµР»РёСЏ. </div></div>
+                                <h4 align="center">Гарантии</h4>
+                                <div class="text" align="center">Если вам не подошло изделие, есть возможность возврата в течение 14 дней со дня продажи заказа, если сохранен товарный вид изделия. </div></div>
 <div class="col-sm-1">
     </div>
   </div>
@@ -244,40 +244,40 @@
                         
                         	<div class="inner-box">
                             	<div class="icon-box"><i class="fa fa-briefcase" aria-hidden="true"></i></div>
-                                <h4>РљР°Рє СЃРґРµР»Р°С‚СЊ Р·Р°РєР°Р·</h4>
-                                <div class="text">Р§РµСЂРµР· С„РѕСЂРјСѓ РѕР±СЂР°С‚РЅРѕР№ СЃРІСЏР·Рё РЅР° СЃР°Р№С‚Рµ, РїРѕ С‚РµР»РµС„РѕРЅСѓ, С‡РµСЂРµР· СЃРѕС†.СЃРµС‚Рё, СѓРєР°Р·Р°РЅРЅС‹Рµ РЅР° СЃР°Р№С‚Рµ, РІ Р·Р°РєР°Р·Рµ РЅРµРѕР±С…РѕРґРёРјРѕ СѓРєР°Р·Р°С‚СЊ Р¤РРћ, Р°РґСЂРµСЃ РѕС‚РїСЂР°РІРєРё, РїР°СЂР°РјРµС‚СЂС‹ РєРѕС€РµР»СЊРєР°. </div>
+                                <h4>Как сделать заказ</h4>
+                                <div class="text">Через форму обратной связи на сайте, по телефону, через соц.сети, указанные на сайте, в заказе необходимо указать ФИО, адрес отправки, параметры кошелька. </div>
                             </div>
                     
                         
                        
                         	<div class="inner-box">
                             	<div class="icon-box"><i class="fa fa-bar-chart" aria-hidden="true"></i></div>
-                                <h4>РР·РіРѕС‚РѕРІР»РµРЅРёРµ</h4>
-                                <div class="text"> РЎСЂРѕРє РёР·РіРѕС‚РѕРІР»РµРЅРёСЏ РєРѕС€РµР»СЊРєР° - 2-3 РґРЅСЏ Р±РµР· СѓС‡РµС‚Р° РѕС‡РµСЂРµРґРё. </div>
+                                <h4>Изготовление</h4>
+                                <div class="text"> Срок изготовления кошелька - 2-3 дня без учета очереди. </div>
                             </div>
                         
                         
                      
                         	<div class="inner-box">
                             	<div class="icon-box"><i class="fa fa-trophy" aria-hidden="true"></i></div>
-                                <h4>РћРїР»Р°С‚Р°</h4>
-                                <div class="text">РћРїР»Р°С‚Р° РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ РІ РїРѕР»РЅРѕРј РѕР±СЉРµРјРµ РїРѕСЃР»Рµ РёР·РіРѕС‚РѕРІР»РµРЅРёСЏ РєРѕС€РµР»СЊРєР° Рё РїРµСЂРµРґ РѕС‚РїСЂР°РІРєРѕР№ Рє РєР»РёРµРЅС‚Сѓ. </div>
+                                <h4>Оплата</h4>
+                                <div class="text">Оплата осуществляется в полном объеме после изготовления кошелька и перед отправкой к клиенту. </div>
                             </div>
                         
                         
                         
                         	<div class="inner-box">
                             	<div class="icon-box"><i class="fa fa-bullhorn" aria-hidden="true"></i></div>
-                                <h4>Р”РѕСЃС‚Р°РІРєР°</h4>
-                                <div class="text">Р‘РµСЃРїР»Р°С‚РЅР°СЏ РґРѕСЃС‚Р°РІРєР° РїРѕ Р РѕСЃСЃРёРё РїРѕС‡С‚РѕР№. Р’РѕР·РјРѕР¶РЅР° РґРѕСЃС‚Р°РІРєР° РўРљ СЃРѕРіР»Р°СЃРЅРѕ С‚Р°СЂРёС„Р°Рј РїРµСЂРµРІРѕР·С‡РёРєР°, РґРѕСЃС‚Р°РІРєР° РґРѕ С‚РµСЂРјРёРЅР°Р»Р° Р±РµСЃРїР»Р°С‚РЅР°СЏ. </div>
+                                <h4>Доставка</h4>
+                                <div class="text">Бесплатная доставка по России почтой. Возможна доставка ТК согласно тарифам перевозчика, доставка до терминала бесплатная. </div>
                             </div>
                         
                         
                        
                         	<div class="inner-box">
                             	<div class="icon-box"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div>
-                                <h4>Р“Р°СЂР°РЅС‚РёРё</h4>
-                                <div class="text">Р•СЃС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РІРѕР·РІСЂР°С‚Р° С‚РѕРІР°СЂР° РІ С‚РµС‡РµРЅРёРµ 14 РґРЅРµР№ СЃРѕ РґРЅСЏ РїСЂРѕРґР°Р¶Рё Р·Р°РєР°Р·Р°, РµСЃР»Рё СЃРѕС…СЂР°РЅРµРЅ С‚РѕРІР°СЂРЅС‹Р№ РІРёРґ РёР·РґРµР»РёСЏ. </div>
+                                <h4>Гарантии</h4>
+                                <div class="text">Есть возможность возврата товара в течение 14 дней со дня продажи заказа, если сохранен товарный вид изделия. </div>
                             </div>
                         
                         
@@ -375,44 +375,44 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
 						<div class="get-touch-heading">
-							<h2>РЎРІСЏР¶РёС‚РµСЃСЊ СЃ РЅР°РјРё</h2> 
-							<p>РќР°РїСЂР°РІСЊС‚Рµ РЅР°Рј Р·Р°СЏРІРєСѓ РЅР° РёР·РіРѕС‚РѕРІР»РµРЅРёРµ РєРѕС€РµР»СЊРєР°, Р»РёР±Рѕ Р·Р°РґР°Р№С‚Рµ РёРЅС‚РµСЂРµСЃСѓСЋС‰РёР№ РІРѕРїСЂРѕСЃ, РјС‹ РѕС‚РІРµС‚РёРј РІ Р±Р»РёР¶Р°Р№С€РµРµ РІСЂРµРјСЏ!</p>
+							<h2>Свяжитесь с нами</h2> 
+							<p>Направьте нам заявку на изготовление кошелька, либо задайте интересующий вопрос, мы ответим в ближайшее время!</p>
 						</div>
 					</div>
 				</div>   
 
 				<div class="content">
 	                <div class="row">
-                        <div id="sendmessage">Р’Р°С€Рµ СЃРѕРѕР±С‰РµРЅРёРµ РѕС‚РїСЂР°РІР»РµРЅРѕ. РЎРїР°СЃРёР±Рѕ!</div>
+                        <div id="sendmessage">Ваше сообщение отправлено. Спасибо!</div>
                         <div id="errormessage"></div>
                         
-                         <form action="mailto:mywallets17@gmail.com" method="post" role="form" class="form contactForm">
+                         <form action="" method="post" role="form" class="form contactForm">
 	                        <div class="col-md-4">
 	                            <div class="form-group">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Р’Р°С€Рµ РёРјСЏ" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Ваше имя" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                                     <div class="validation"></div>
                                 </div>
 	                        </div>
 	                        <div class="col-md-4">
 	                            <div class="form-group">
-                                    <input type="email" class="form-control" name="email" id="email" placeholder="Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ РїРѕС‡С‚Р°" data-rule="email" data-msg="Please enter a valid email" />
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Электронная почта" data-rule="email" data-msg="Please enter a valid email" />
                                     <div class="validation"></div>
                                 </div>
 	                        </div>
 	                        <div class="col-md-4">
 	                            <div class="form-group">
-                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="РўРµРјР°" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Тема" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                                     <div class="validation"></div>
                                 </div>
 	                        </div>
 	                        <div class="col-md-12">
 	                            <div class="form-group">
-                                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Р’Р°С€Рµ СЃРѕРѕР±С‰РµРЅРёРµ"></textarea>
+                                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Ваше сообщение"></textarea>
                                     <div class="validation"></div>
                                 </div>
 	                        </div>
 	                        <div class="submit">
-	                            <button class="btn btn-default" type="submit">РћС‚РїСЂР°РІРёС‚СЊ</button>
+	                            <button class="btn btn-default" type="submit">Отправить</button>
 	                        </div>
 	                    </form>
 	                </div>
@@ -435,20 +435,20 @@
 
 					<div class="col-md-4">
 						<div class="footer-heading">
-							<h3><span>РљРћРќРўРђРљРўР«</span></h3>
+							<h3><span>КОНТАКТЫ</span></h3>
 							<ul>
-								<li><a href="#">РўРµР»РµС„РѕРЅ, WhatsApp/Viber +79163937963</a></li>
-								<li><a href="#">РџРѕС‡С‚Р° mywallets17@gmail.com</a></li>
-								<li><a href="https://vk.com/mywallets_handmade">РќР°С€Р° РіСЂСѓРїРїР° Р’РљРѕРЅС‚Р°РєС‚Рµ <i class="fa fa-vk" aria-hidden="true"></i></a></li>
-								<li><a href="hhttps://www.instagram.com/mywallets_/">РќР°С€ РїСЂРѕС„РёР»СЊ РІ РРЅСЃС‚Р°РіСЂР°Рј <i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+								<li><a href="#">Телефон, WhatsApp/Viber +79163937963</a></li>
+								<li><a href="#">Почта mywallets17@gmail.com</a></li>
+								<li><a href="https://vk.com/mywallets_handmade">Наша группа ВКонтакте <i class="fa fa-vk" aria-hidden="true"></i></a></li>
+								<li><a href="hhttps://www.instagram.com/mywallets_/">Наш профиль в Инстаграм <i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 							</ul>
 						</div>
 					</div>
 
 					<div class="col-md-4">
 						<div class="footer-heading">
-							<h3><span>РќРћР’РћРЎРўР Р’ РЎРћР¦.РЎР•РўРЇРҐ</span></h3>
-							<p>РЎР»РµРґРёС‚Рµ Р·Р° СЃРІРµР¶РёРјРё РЅРѕРІРѕСЃС‚СЏРјРё РІ Р’РљРѕРЅС‚Р°РєС‚Рµ Рё РРЅСЃС‚Р°РіСЂР°Рј, С‚Р°Рј РѕС‡РµРЅСЊ РјРЅРѕРіРѕ РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ Рё РїРѕР»РµР·РЅРѕРіРѕ. РЈР·РЅР°РІР°Р№С‚Рµ РїРµСЂРІС‹РјРё Рѕ СЃРєРёРґРєР°С…, Р°РєС†РёСЏС…, СЂРѕР·С‹РіСЂС‹С€Р°С… Рё Рѕ СЃРµРєСЂРµС‚Р°С… РїСЂРѕРёР·РІРѕРґСЃС‚РІР°.</p>
+							<h3><span>НОВОСТИ В СОЦ.СЕТЯХ</span></h3>
+							<p>Следите за свежими новостями в ВКонтакте и Инстаграм, там очень много интересного и полезного. Узнавайте первыми о скидках, акциях, розыгрышах и о секретах производства.</p>
 							
 						</div>
 
@@ -477,11 +477,11 @@
 					<div class="col-md-8">
 						<div class="footer-right">
                             <ul class="list-unstyled list-inline pull-right">
-                                <li><a href="#home">Р“Р»Р°РІРЅР°СЏ</a></li>
-                                <li><a href="#about">РџСЂРѕРґСѓРєС†РёСЏ</a></li>
-                                <li><a href="#service">РљР°Рє Р·Р°РєР°Р·Р°С‚СЊ</a></li>
-                                <li><a href="#portfolo">РќР°С€Рё СЂР°Р±РѕС‚С‹</a></li>
-                                <li><a href="#contact">РљРѕРЅС‚Р°РєС‚С‹</a></li>
+                                <li><a href="#home">Главная</a></li>
+                                <li><a href="#about">Продукция</a></li>
+                                <li><a href="#service">Как заказать</a></li>
+                                <li><a href="#portfolo">Наши работы</a></li>
+                                <li><a href="#contact">Контакты</a></li>
                             </ul>
 						</div>
 					</div>
